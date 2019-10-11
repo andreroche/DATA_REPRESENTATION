@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+
+<Breakfast_Menu>
+	<food>
+		<name>Waffles</name>
+		<price>€5.00</price>
+		<description>This is a really nice waffle from america</description>
+		<calories>1000 - We said it was nice!</calories>
+	</food>
+	<food>
+		<name>irish granola cereal</name>
+		<price>€2.99</price>
+		<description>Granola served with fresh fruits</description>
+		<calories>80</calories>
+	</food>
+	
+</Breakfast_Menu>	
