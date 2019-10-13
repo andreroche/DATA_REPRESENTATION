@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title> e.2.3</title>
+		<!-- Exercise 2.3 from course notes/videos-->
+	</head>
+	<body>
+		<input id="name" type="text" value ="enter name" />
+		<br/>
+		<button onclick ="buttonClicked()">click me</button>
+		<br/>
+		<div id ="output">output will go here</div>
+		
+		<script>
+			function buttonClicked()
+			{
+				var output=document.getElementById('name').value
+				document.getElementById('output').innerText = output
+			}
+		</script>
+
+	</body>
+
+</html>
